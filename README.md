@@ -1,8 +1,7 @@
-### NAME : G ASWINI
-### REG.NO. : 24000247
-### EXPERIMRNT 4 :  FULL ADDDER AND SUBTRACTOR.
+# NAME : G ASWINI
+# REG.NO. : 24000247
+# EXPERIMRNT 4 : IMPLEMENTATION OF FULL ADDDER AND SUBTRACTOR.
 
-Implementation-of-Full-Adder-and-Full-subtractor-circuit
 
 # AIM :
 
